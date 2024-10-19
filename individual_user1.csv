@@ -1,0 +1,11 @@
+﻿,user_id,fullname,f_prob,m_prob,white_prob,black_prob,api_prob,hispanic_prob,native_prob,multiple_prob,prestige,highest_degree,sex_predicted,ethnicity_predicted,profile_linkedin_url,user_location,user_country,updated_dt,numconnections
+12941,35395960,Ralf Rogalski,0,1,1,0,0,0,0,0,-0.063741786,,M,White,linkedin.com/in/ralf-rogalski-a6489285,United States,United States,2024/7/21,1
+12952,35427310,Lisa Peinl,0.997,0.003,0.944,0.003,0.004,0.027,0.002,0.02,-0.063741786,,F,White,linkedin.com/in/lisa-peinl-28286755,"Encinitas, California, United States",United States,2024/8/21,0
+5,1007259,Vikrant Sharma,0,1,0.018,0.01,0.925,0.004,0.004,0.039,-0.063741786,,M,API,linkedin.com/in/vikrant-sharma-a186241b9,"Patna, Bihar, India",India,2024/3/20,
+9,1025085,Nicolaos Avalos Videla,0,1,0.156,0.118,0.038,0.588,0.062,0.038,-0.401358713,,M,Hispanic,linkedin.com/in/nicolaosavalosvidela,Argentina,Argentina,2024/8/26,53
+15,1036366,Oshanthi maheshika Liyanage,0.609,0.391,0.022,0.024,0.922,0.009,0,0.023,0.164953483,Master,F,API,linkedin.com/in/oshanthi-maheshika-liyanage-772469128,Sri Lanka,Sri Lanka,2024/6/1,1
+30,1089238,马志富,0.5,0.5,0.002,0.002,0.99,0.002,0.002,0.002,-0.063741786,,.,API,linkedin.com/in/%e5%bf%97%e5%af%8c-%e9%a9%ac-92374419a,"Ningxia Hui, China",China,2024/8/17,
+44,1117079,杨睿忻,0.5,0.5,0.002,0.002,0.99,0.002,0.002,0.002,-0.063741786,,.,API,linkedin.com/in/%e7%9d%bf%e5%bf%bb-%e6%9d%a8-819807133,China,China,2024/2/20,
+67,1189077,princess flavia,0.132,0.868,0.981,0.005,0.004,0.002,0.004,0.004,0.802115329,,M,White,linkedin.com/in/princess-flavia-83a225202,"Cairo, Cairo, Egypt",Egypt,2024/6/24,15
+311,1836475,محمد القحطاني,0.456,0.544,0.943,0.003,0.011,0,0.039,0.004,0.541217929,Master,M,White,linkedin.com/in/mohammed-alqahtani-9aab7a191,الرياض الرياض السعودية,,2024/6/18,26
+194,1499942,judy kreger,0.997,0.003,0.992,0,0,0.001,0.001,0.006,-0.063741786,,F,White,linkedin.com/in/judy-kreger-951369a3,United States,United States,2024/8/1,2
